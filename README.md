@@ -1,6 +1,6 @@
 ## Salutations 👋
 
-My name is Tremaine, I am a social researcher based in Raleigh, NC.
+My name is Tremaine, I am a social researcher based in Raleigh, NC interested in data science as a tool for change. 
 
 I mostly work on projects that support social science research and data management. The tools that I use currently are R, Python. I have experience with STATA, SAS and SPSS.
 
