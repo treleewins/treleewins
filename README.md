@@ -4,7 +4,7 @@ My name is Tremaine, I am a social researcher based in Raleigh, NC.
 
 I mostly work on projects that support social science research and data management. The tools that I use currently are R, Python. I have experience with STATA, SAS and SPSS.
 
-I’m currently working on my dissertation proposal which involves using automated web scrapping tools that I construct in both R and Python. 
+I’m currently working on my dissertation proposal data anaylsis which involves using automated web scrapping tools that I construct in both R and Python. I focus on racialized housing markets. 
 
 _____________________________________
 
