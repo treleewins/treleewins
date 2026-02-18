@@ -1,16 +1,13 @@
-## Hi there 👋
+## Salutations 👋
 
-<!--
-**treleewins/treleewins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Tremaine, I am a social researcher based in Raleigh, NC. 
 
-Here are some ideas to get you started:
+I mostly work on projects that support social science research and data management. The tools that I use currently are R, Python. I have experience with STATA, SAS and SPSS.    
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m currently working on my dissertation proposal which involves using automated web scrapping tools that I construct in both R and Python. 
+
+_____________________________________
+
+## Programming Languages
+
+R, Python, HTML 
