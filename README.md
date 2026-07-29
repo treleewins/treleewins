@@ -1,6 +1,7 @@
-## Salutations 👋
+## Hi, I'm Tremaine 👋
 
 ## PhD Student - Researcher 
+contact me 📧 email: tremainewins@gmail.com
 
 ## About Me 🌎
 
